@@ -4,7 +4,7 @@
 **Tool:** Microsoft Power BI Desktop  
 **Dataset:** Indian E-Commerce Sales (2022–2023) — 4 tables, 10,760 total rows  
 **Domain:** E-Commerce / Retail  
-**GitHub:** github.com/coderfox-cap  
+**GitHub:** github.com/A-NarenKarthikeyan
 **LinkedIn:** linkedin.com/in/narenkarthikeyana/  
 
 ---
